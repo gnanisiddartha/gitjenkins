@@ -7,5 +7,8 @@ namespace gitjenkins.Models
 {
     public class Calculator
     {
+        public void Test()
+        {
+        }
     }
 }
