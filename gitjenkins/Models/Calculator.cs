@@ -9,6 +9,7 @@ namespace gitjenkins.Models
     {
         public void Test()
         {
+            int a=0;
         }
     }
 }
