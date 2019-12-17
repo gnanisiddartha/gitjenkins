@@ -11,6 +11,7 @@ namespace gitjenkins.Models
         {
            
            int a=0;
+            int b=2;
             
         }
     }
