@@ -17,6 +17,11 @@ namespace gitjenkins.Models
         {
             return a + b;
         }
+        
+        public int substract(int a,int b)
+        {
+            return b-a;
+        }
 
     }
 }
