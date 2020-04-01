@@ -11,7 +11,7 @@ namespace gitjenkins.Models
         {
             int a=0;
             int b=0; 
-            int c=0;
+            
         }
 
         public int sum(int a, int b)
