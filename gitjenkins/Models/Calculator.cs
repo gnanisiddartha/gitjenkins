@@ -16,7 +16,7 @@ namespace gitjenkins.Models
 
         public int sum(int a, int b)
         {
-            return a + b+a; // Ths is for testing
+            return a + b; // Ths is for testing
         }
         
         public int substract(int a,int b)
